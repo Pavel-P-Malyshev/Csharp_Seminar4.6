@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\bin\Debug\net6.0\Task003_FreqDic.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\bin\Debug\net6.0\Task003_FreqDic.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\bin\Debug\net6.0\Task003_FreqDic.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\bin\Debug\net6.0\Task003_FreqDic.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\bin\Debug\net6.0\Task003_FreqDic.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\refint\Task003_FreqDic.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\Task003_FreqDic.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task003_FreqDic\obj\Debug\net6.0\ref\Task003_FreqDic.dll
