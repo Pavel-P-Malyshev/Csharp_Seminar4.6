@@ -81,17 +81,7 @@ int[] FreqBook(int[,] matrix)
 
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            if(matrix[i, j]==0) Book[0]++;
-            if(matrix[i, j]==1) Book[1]++;
-            if(matrix[i, j]==2) Book[2]++;
-            if(matrix[i, j]==3) Book[3]++;
-            if(matrix[i, j]==4) Book[4]++;
-            if(matrix[i, j]==5) Book[5]++;
-            if(matrix[i, j]==6) Book[6]++;
-            if(matrix[i, j]==7) Book[7]++;
-            if(matrix[i, j]==8) Book[8]++;
-            if(matrix[i, j]==9) Book[9]++;
-            
+            Book[matrix[i,j]]++;
 
         }
         
