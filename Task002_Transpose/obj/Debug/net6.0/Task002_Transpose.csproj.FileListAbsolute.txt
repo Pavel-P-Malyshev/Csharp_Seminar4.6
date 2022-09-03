@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\bin\Debug\net6.0\Task002_Transpose.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\bin\Debug\net6.0\Task002_Transpose.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\bin\Debug\net6.0\Task002_Transpose.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\bin\Debug\net6.0\Task002_Transpose.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\bin\Debug\net6.0\Task002_Transpose.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\refint\Task002_Transpose.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\Task002_Transpose.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task002_Transpose\obj\Debug\net6.0\ref\Task002_Transpose.dll
