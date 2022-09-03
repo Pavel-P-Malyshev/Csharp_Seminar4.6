@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\bin\Debug\net6.0\Task004_DelCross.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\bin\Debug\net6.0\Task004_DelCross.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\bin\Debug\net6.0\Task004_DelCross.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\bin\Debug\net6.0\Task004_DelCross.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\bin\Debug\net6.0\Task004_DelCross.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\refint\Task004_DelCross.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\Task004_DelCross.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.6-Как не нужно писать код. Часть 2\Seminar 4.6\Task004_DelCross\obj\Debug\net6.0\ref\Task004_DelCross.dll
