@@ -41,6 +41,8 @@ string GetSpaces(int totalLength)
         {
             result += " ";
         }
+
+        Console.WriteLine($"result is: XX{result}XX");
         return result;
 }
 
@@ -90,7 +92,7 @@ void PrintMatrix(int[,] matrix)
         {
             if(matrix[i,j]==0)
             {
-                //Console.Write(spaces);
+                //Console.Write($"{spaces}");
                 Console.Write(" ");
             }
             else
