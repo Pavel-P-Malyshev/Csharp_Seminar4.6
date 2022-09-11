@@ -47,89 +47,6 @@ void PrintMatrix(int[,] matrix)
     }
 
 }
-// не доделано! Не получилось реализовать разряжение треугольника для вывода значений 
-// в виде пирамиды в шахматном порядке
-void PrintEqTriangle(int[,] matrix)
-{
-    int[,] Output=new int[matrix.GetLength(0), matrix.GetLength(1)*2-1];
-    int k=0;
-    int l=matrix.GetLength(0)-1;//сдвиг слева - уменьшаем на каждой строке
-    int m=0;
-    int count=0;
-    
-    for (int i = 0; i < Output.GetLength(0); i++)
-    {
-        
-           for (k = 0; k < matrix.GetLength(1); k++)
-           {
-             if(matrix[i,k]!=0&&i==0)
-             {
-                  //count++;
-                    Output[i,k+l]=matrix[i,k];
-                 
-                 
-                 //Console.WriteLine($"matrix non zero: {matrix[i,k]} k={k} i={i} j={j}");
-             }
-
-             if(matrix[i,k]!=0&&i==1)
-             {
-                  //count++;
-                    Output[i,k+l]=matrix[i,k];
-                 
-                 
-                 //Console.WriteLine($"matrix non zero: {matrix[i,k]} k={k} i={i} j={j}");
-             }
-           }
-
-           for (k = 0; k < matrix.GetLength(1); k++)
-           {
-             if(matrix[i,k]!=0)
-             {
-                  count++;
-                   // Output[i,k+l]=matrix[i,k];
-                 
-                 
-                 //Console.WriteLine($"matrix non zero: {matrix[i,k]} k={k} i={i} j={j}");
-             }
-           }
-         
-         
-
-        
-        l--;
-    }
-
-int[,] Output2=new int[matrix.GetLength(0), matrix.GetLength(1)*2-1];
-
-for (int x = 0; x < Output.GetLength(0); x++)
-    {
-        for (int y= 0; y < Output.GetLength(1) ; y++)
-        {
-            if(Output[x,y]!=0)
-            {
-               Output2[x,y+m]=Output[x,y];
-            }
-
-        }
-       m++;
-    }
-
-
-   for (int x = 0; x < Output.GetLength(0); x++)
-    {
-        for (int y= 0; y < Output.GetLength(1); y++)
-        {
-            Console.Write($"{Output2[x, y]} [{x},{y}] ");
-
-        }
-        Console.WriteLine();
-    }
-   
-}
-
-
-
-
 
 
 double PascalTriangleValue(int N, int K)
@@ -139,18 +56,33 @@ double PascalTriangleValue(int N, int K)
 
 int[,] PascalTriangle(int rowNumber)
 {
-    int [,] answer= new int[rowNumber,rowNumber];
+    int [,] answer= new int[rowNumber,rowNumber*2-1];
+    int l=answer.GetLength(0)-1;
     
     
     for (int i = 0; i < answer.GetLength(0); i++)
     {
         for (int j = 0; j < answer.GetLength(1); j++)
         {
+               
+                if (PascalTriangleValue(i, j) != 0/*&&i==0)||(PascalTriangleValue(i,j)!=0&&i==1)*/)
+                {
+                    
+                    if(j<2)
+                    {
+                        answer[i, (j%2==0) ? j + l : j+l+1] = (int)PascalTriangleValue(i, j);
+                    }
+                    else
+                    {
+                        answer[i, j*2+l] = (int)PascalTriangleValue(i, j);
+                    }
+                    
+                    //answer[i,  j + l+1 ] = (int)PascalTriangleValue(i, j);
+                }
             
-            answer[i,j]=(int) PascalTriangleValue(i,j);
 
         }
-        
+        l--;
     }
    return answer;
 }
@@ -164,8 +96,8 @@ int r = Prompt("enter pascal rows number: ");
 System.Console.WriteLine($"Pascal triangle is: ");
 PrintMatrix(PascalTriangle(r));
 
-System.Console.WriteLine($"XXXXXXXXXXXXXXXXXXXXXX ");
-PrintEqTriangle(PascalTriangle(r));
+//System.Console.WriteLine($"XXXXXXXXXXXXXXXXXXXXXX ");
+//PrintEqTriangle(PascalTriangle(r));
 
 
 
