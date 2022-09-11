@@ -34,14 +34,69 @@ int[,] FillMatrix(int rows, int columns, int range)
     return matrix;
 }
 
-void PrintMatrix(int[,] matrix)
+string GetSpaces(int totalLength)
 {
+        string result = string.Empty;
+        for (int i = 0; i < totalLength; i++)
+        {
+            result += " ";
+        }
+        return result;
+}
+
+int MaxDigitsNum(int[,] matrix)
+{
+    int answer=0;
+    int[] digits=new int[matrix.GetLength(0)*matrix.GetLength(1)];
+    int digits_idx=-1;
+
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            Console.Write($"{matrix[i, j]} [{i},{j}] ");
+           digits_idx++;
+             while(matrix[i,j]>0)
+             {
+                matrix[i,j]=matrix[i,j]/10;
+                digits[digits_idx]++;
+             }
+           
+        }
+        
+    }
+    
+    //ищем максимум
+    answer=digits[0];
+    for (int k = 0; k < digits.Length; k++)
+    {
+        if(digits[k]>answer) answer=digits[k];
+        
+    }
 
+    Console.WriteLine($"max digits is: {answer}");
+
+    return answer;
+    
+}
+
+
+
+void PrintMatrix(int[,] matrix)
+{
+    //string spaces=GetSpaces(MaxDigitsNum(matrix));
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            if(matrix[i,j]==0)
+            {
+                //Console.Write(spaces);
+                Console.Write(" ");
+            }
+            else
+            {
+                Console.Write($"{matrix[i, j]}");
+            }
         }
         Console.WriteLine();
     }
@@ -86,8 +141,6 @@ int[,] PascalTriangle(int rowNumber)
     }
    return answer;
 }
-
-
 
 
 
